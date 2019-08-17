@@ -1,0 +1,8 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+*.pot
+*.py[co]
+__pycache__
+**/data
